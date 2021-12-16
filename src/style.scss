@@ -1,0 +1,22 @@
+/**
+ * The following styles get applied both on the front of your site
+ * and in the editor.
+ *
+ * Replace them with your own styles or remove the file completely.
+ */
+
+.wp-block-create-block-tweet-this {
+	padding: 30px 30px 50px;
+}
+
+.wp-block-create-block-tweet-this a.tweet-this-link-button {
+	float: right;
+	padding: 10px;
+	text-decoration: none;
+	margin: 10px 0;
+}
+
+.wp-block-create-block-tweet-this a.tweet-this-link-button span.dashicon.dashicons.dashicons-twitter {
+	line-height: inherit;
+	margin-left: 5px;
+}
