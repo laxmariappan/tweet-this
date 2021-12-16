@@ -30,7 +30,11 @@ e.g.
 
 watch this short video demo
 
+https://www.loom.com/share/7cc78c3a990b454d8d9d949478e4c253
+
 # Screenshots
+
+![image](https://user-images.githubusercontent.com/22427070/146429653-18035b46-337f-4173-99b7-189a4938e791.png)
 
 
 # Changelog
